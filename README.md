@@ -57,10 +57,9 @@
 
 #Resources
 *Matplotlib.org
-*ChatGPT
-*AskBCS 
-*Tutor 4/1 
-*Tutor 4/2
+*Copilot
+*Tutor with David Pecot on 4/1
+
     
     
    
